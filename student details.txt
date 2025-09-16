@@ -1,0 +1,7 @@
+        STUDENT DETAILS 
+
+   Name    : K.DurgaDevi
+   Rollno  : 36
+   Course  : BSC(cs)
+   SUC     : 2350250209
+   Section : A
